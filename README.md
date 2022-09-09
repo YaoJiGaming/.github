@@ -1,0 +1,2 @@
+# .github
+YaoJiGaming Instro
